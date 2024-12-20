@@ -1,0 +1,22 @@
+david-barca/
+│
+├── index.php         # Página principal
+├── about.php         # Página "Sobre nosotros"
+├── products.php      # Página de productos
+├── contact.php       # Página de contacto
+│
+├── assets/
+│   ├── css/
+│   │   ├── style.css # Estilos principales
+│   │   └── reset.css # Reset de estilos
+│   ├── images/       # Imágenes de productos y diseño
+│   └── js/
+│       └── script.js # Funciones JavaScript (si se necesitan)
+│
+├── includes/
+│   ├── header.php    # Cabecera común para todas las páginas
+│   ├── footer.php    # Pie de página común
+│   └── db.php        # Archivo para conexión con la base de datos (opcional)
+│
+└── config/
+    └── config.php    # Configuración general del proyecto
